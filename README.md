@@ -72,12 +72,13 @@ I remind myself often to revisit my intentions. I work with reusability and read
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveneetchahal&langs_count=8&theme=tokyonight" alt=loveneetchahal />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=loveneetchahal&show_icons=true&locale=en&theme=tokyonight" alt="loveneetchahal" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=loveneetchahal&theme=vue" alt="loveneetchahal" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Highlights</h3>
+<div align="center">
+<a href="https://github.com/loveneetchahal">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loveneetchahal&langs_count=8&theme=vue" height="180em" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=loveneetchahal&show_icons=true&locale=en&theme=vue" height="180em" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loveneetchahal&theme=vue" height="180em" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -88,4 +89,4 @@ I remind myself often to revisit my intentions. I work with reusability and read
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loveneetchahal&theme=vue" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=loveneetchahal&theme=tokyo-night"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=loveneetchahal&theme=vue"/>
