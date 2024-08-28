@@ -127,7 +127,7 @@ nav ul li a:hover {
     height: 35px;
     display: flex;
     border: 10px;
-    padding: 10px 20px 10px;
+    /* padding: 10px 20px 10px; */
     justify-content: space-around;
     align-items: center;
     color: #ffffff;
@@ -582,7 +582,7 @@ nav ul li a:hover {
     height: 35px;
     display: flex;
     border: 10px;
-    padding: 0px 20px 0px;
+    /* padding: 0px 20px 0px; */
     justify-content: space-around;
     align-items: center;
     color: #ffffff;
