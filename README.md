@@ -1,12 +1,12 @@
 ### Hi there 👋 
 
-My name is Loveneet Singh Chahal, and I am an aspiring Full-Stack developer with extensive knowledge of TypeScript, Angular, React, .NET Core, SQL, MongoDB and Python. I am a Self-starter with excellent interpersonal, motivational, and facilitation skills Specialties.
+My name is Loveneet Singgh, and I am an aspiring Full-Stack developer with extensive knowledge of TypeScript, Angular, React, .NET Core, SQL, MongoDB and Python. I am a Self-starter with excellent interpersonal, motivational, and facilitation skills Specialties.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loveneetchahal&label=Views&color=blue&style=plastic&style=for-the-badge" alt="loveneetchahal" /> </p>
  
 ## About me:
 
-I am Loveneet Singh a Software Developer, with enthusiasm and experience in developing software systems. I have the experience of leading, organizing and accomplishing software projects with a rich set of features and functionality. Especially, I have been successful in bending abstract system requirements into real software solutions that have high security and performance. I am dedicated to continuously enhancing my skills and am particularly enthusiastic about Front-end, Back-end, DevOps, and AI technologies.
+I am Loveneet a Software Developer, with enthusiasm and experience in developing software systems. I have the experience of leading, organizing and accomplishing software projects with a rich set of features and functionality. Especially, I have been successful in bending abstract system requirements into real software solutions that have high security and performance. I am dedicated to continuously enhancing my skills and am particularly enthusiastic about Front-end, Back-end, DevOps, and AI technologies.
 
 In my free time, you can see me driving or playing with my pets.
 
